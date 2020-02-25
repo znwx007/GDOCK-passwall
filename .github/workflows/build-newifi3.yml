@@ -9,7 +9,7 @@ name: Build newifi3+passwall-20200207
 
 on: 
   release:
-    types: [published]
+    types: [published] 
   push:
     branches: 
       - master
